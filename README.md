@@ -7,7 +7,7 @@ Repositorio del departamento de marketing de Unicaja Baloncesto
 
 ### Web oficial del club
 
-La web oficial del club es [Web Oficial] (https://www.unicajabaloncesto.com)
+La web oficial del club es [Web Oficial](https://www.unicajabaloncesto.com)
 
 ![Imagen Unicaja](https://www.unicajabaloncesto.com/Images/Web/logo.png)
 
